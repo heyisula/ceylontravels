@@ -134,14 +134,7 @@ ceylon-travels/
 - Main styles are in `css/style.css`
 - Responsive breakpoints are already configured
 - Color scheme can be modified via CSS variables
-
-## 📧 Contact Information
-
-- **Phone**: +94 123 456 789
-- **Email**: hello@ceylontravels.lk
-- **Address**: 123 Highlevel Road, Colombo, Sri Lanka
-- **Hours**: Monday - Sunday, 8:00 AM - 8:00 PM (GMT+5:30)
-
+  
 ## 🤝 Contributing
 
 1. Fork the repository
